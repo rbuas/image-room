@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+/target/*
+
+
+# Text editors and IDEs
+.history
+.idea/
+.vscode/settings.json
+
+# testing, coverage and storybook
+coverage/
+.scannerwork/
+storybook-static/
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode
+.history
