@@ -1,0 +1,42 @@
+language: node_js
+node_js:
+- "8"
+- "9"
+
+stages:
+  - quality
+  - compile
+  - test
+  - name: deploy
+    if: branch = master
+
+notifications:
+  email:
+    recipients:
+    - rodrigobuas@gmail.com
+    on_success: change
+    on_failure: always
+
+jobs:
+  include:
+    - name: lint
+      stage: quality
+      script: lint
+
+    - name: compile
+      stage: compile
+      script: build
+
+    - name: unit tests
+      stage: test
+      script: unit-test
+
+    - name: integration tests
+      stage: test
+      script: int-test
+
+    - name: deploy
+      stage: deploy
+      env:
+        - FOO=foo
+      script: deploy
