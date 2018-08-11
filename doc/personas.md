@@ -13,12 +13,12 @@
 
 ## Eye
 
-As an Eye, I am responsable to develop the idea and concepts of the project. I regulary work with the [Media Manager](#media-manager) and with the [Sheriff](sheriff) to define the best vision to the project regarding the clients demands and social media potentials.
+As an Eye, I am responsible to develop the idea and concepts of the project. I regularly work with the [Media Manager](#media-manager) and with the [Sheriff](sheriff) to define the best vision to the project regarding the clients demands and social media potentials.
 
 *behaviors* :
 - I study a lot about the project subject
 - I am creative
-- I keep the photographe vision
+- I keep the photography vision
 - I am good at connecting points previously unconnected
 
 *needs* :
@@ -35,17 +35,17 @@ As an Eye, I am responsable to develop the idea and concepts of the project. I r
 
 ## Sniper
 
-As a Sniper, I am equiped with a high-precision cameras and high-magnification optics. On field, I maintain effective visual contact with the target and I keep calm waiting for the special moment, to embrace the good instant and create an image.
+As a Sniper, I am equipped with a high-precision cameras and high-magnification optics. On the field, I maintain effective visual contact with the target and I keep calm waiting for the special moment, to embrace the good instant and create an image.
 
 *behaviors* :
 - I prepare the field equipment
 - I study field strategy
 - I choose and change the good camera/lens for each moment
-- I predict event and choose strategical positions
+- I predict events and choose strategical placements
 - I change my point of view to produce creative images
 
 *needs* :
-- Stay on field
+- Stay on the field
 - Recharge batteries
 - Decharge cards
 
@@ -58,7 +58,7 @@ As a Sniper, I am equiped with a high-precision cameras and high-magnification o
 
 ## Pigeon
 
-As a Pigeon, I am specially selected to travel quicly to unload and recharge the [sniper](#sniper).
+As a Pigeon, I am specially selected to travel quickly to unload and recharge the [sniper](#sniper).
 
 *behaviors* :
 - I always know where is the [sniper](#sniper) and it's status
@@ -70,7 +70,7 @@ As a Pigeon, I am specially selected to travel quicly to unload and recharge the
 *needs*
 - Be fast to make travels
 - Know the schedule to predict events and needs
-- Be cautious to well import cards and dont loose images
+- Be cautious to well import cards and don't loose images
 
 *goals* :
 - Bring back images to the [workbase](#workbase)
@@ -81,7 +81,7 @@ As a Pigeon, I am specially selected to travel quicly to unload and recharge the
 
 ## Editor
 
-As an Editor, I am responsable to retouch photos by making adjustments or recommending any rectifications to improve the image quality. In order to reduce bottleneck to delivery images, I follow a precise workflow optimizing the use of editing software.
+As an Editor, I am responsible to retouch photos by making adjustments or recommending any rectifications to improve the image quality. In order to reduce the bottleneck to delivery images, I follow a precise workflow optimizing the use of editing software.
 
 *behaviors* :
 - I am methodological
@@ -90,7 +90,7 @@ As an Editor, I am responsable to retouch photos by making adjustments or recomm
 
 *needs* :
 - Have quick access to the photographies as soon as possible
-- Have high performance computer with edition softwares
+- Have high-performance computer with edition softwares
 - Have a priority to follow edition starting by the most important
 - Have a methodology to organize edition steps
 - Have softwares to make non destructing edition
@@ -99,7 +99,7 @@ As an Editor, I am responsable to retouch photos by making adjustments or recomm
 *goals* :
 - Edit raw images delivering good quality photographies
 - Give consistent images according the [eye](#eye)
-- Keep the project coherance on images
+- Keep the project coherence on images
 
 
 
@@ -108,29 +108,29 @@ As an Editor, I am responsable to retouch photos by making adjustments or recomm
 As a Sheriff, I am very technical and specialized on the main [eye](#eye) theme, helping then to mix photography technique and techniques liked to the theme. Together we try to find the best photography to cover the theme demand.
 
 *behaviors* :
-- I am specialized on the techniques linked to main theme addressed by the eye
+- I am specialized on the techniques linked to the main theme addressed by the eye
 - I understand the vision of the [eye](#eye) and I know how to help him in projects
 - I have skills to translate the photography vision and use the good theme technique to create with the [eye](#eye) the good photography concept
 
 *needs* :
 - Know everything about the theme
-- Be confortable to say if there is something against the theme "rules"
+- Be comfortable to say if there is something against the theme "rules"
 - Have access to the raw photographies to indicate the good images
 - Be able to indicate photography preferences
 - Be able to comment during the shooting to propose or give advices to the [eye](#eye)
 
 *goals* :
 - Indicate the best images regarding the theme technique
-- Give advices during all process to help to create images
+- Give advices during all processes to help to create images
 
 
 
 ## Classer
 
-As a Classer, I am extremely categorical and I am responsable to divide the project/theme in different ways, thus creating means of categorizing subjects in order to facilitating photo searches, both by humans and robots. During my work, I use my time to tunnig photographies with a lot informations.
+As a Classer, I am extremely categorical and I am responsible to divide the project/theme in different ways, thus creating means of categorizing subjects in order to facilitating photo searches, both by humans and robots. During my work, I use my time to tuning photographies with a lot informations.
 
 *behaviors* :
-- I am very stricted and organized
+- I am very strict and organized
 - I know very well how to put things in categories
 - I know how to identify and set categories to each photo quickly
 - I love the face recognition because it helps me to categorize people
@@ -148,35 +148,35 @@ As a Classer, I am extremely categorical and I am responsable to divide the proj
 
 ## Media Manager
 
-As a Media Manager, I know very well the demand of the project and I am responsible to prepare all pre-settings and to close all packages at the end of production aiming different resolutions and photo set. I am also responsable to organise post on social media.
+As a Media Manager, I know very well the demand of the project, and I am responsible to prepare all pre-settings and to close all packages at the end of production aiming different resolutions and photo set. I am also responsible to organise post on social media.
 
 *behaviors* :
 - I have marketing skills
 - I am aware about the current subjects on social media
-- I comunicate precisely with clients and naturallt with public
+- I communicate precisely with clients and naturallt with public
 - I am very organized
 
 *needs* :
-- Note every demand with differents kind of clients and it's needs (like resolution, formats, watermarks, theme, style...)
+- Note every demand with differents kind of clients, and it's needs (like resolution, formats, watermarks, theme, style...)
 - Prepare everything before start production, but to do that, I need all informations about the project and clients
 - Check each end package before delivery it
 
 *goals* :
-- organize and delivery packages with set of photos for different usage needs
+- Organize and delivery packages with set of photos for different usage needs
 - Create a regular post campaign to explore the project content on social media
 
 
 
 ## Workbase
 
-As a Workbase, I am responsable to keep things concentrated during the shooting. I am a central place to keep computers, internet connection and equipments.
+As a Workbase, I am responsible to keep things concentrated during the shooting. I am a central place to keep computers, internet connection and equipments.
 
 *behaviors* :
 - I am stable and protected
 
 *needs* :
 - Near electricity points
-- High speed internet connection
+- High-speed internet connection
 - High processor computer
 - Table for the computers and other equipments
 - Memory card readers

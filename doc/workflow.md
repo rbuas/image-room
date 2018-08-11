@@ -72,21 +72,21 @@ YYYYMMDD-album-subject
 
 
 ### Share album in LRCC
-Create a collection from the album folder to sync it with LRCC. This step is important to make possible the colaborative work.
+Create a collection from the album folder to sync it with LRCC. This step is important to make possible the collaborative work.
 
 
 ### Prepare tethering
-Connect devices to theatring if is the case. It could make easy to import photos directly instead do it in lot with cards.
+Connect devices to tethering if is the case. It could make easy to import photos directly instead do it in lot with cards.
 
 
 ### Prepare schedule
-[Media Manager](./personas.md#media-manager) prepare the project schedule, with :
+[Media Manager](./personas.md#media-manager) prepare the project schedule, with:
 - event agenda
 - to do list (important clicks, important moments)
 
 
 ### Image Room Settings
-[Media Manager](./personas.md#media-manager) prepare the Image Room settings (.irsettings file) with :
+[Media Manager](./personas.md#media-manager) prepare the Image Room settings (.irsettings file) with:
 - output formats
 - output package by keywords
 - predefined keywords
@@ -157,10 +157,10 @@ PS : The validation process could be done in many iterations. For example, first
 
 
 ### Transition LRCC-LR
-Until here the [editor](./personas.md#editor) could switch between LR or in LRCC. To continue and to the next steps we have to transite to LR. On this moment we propose to :
+Until here the [editor](./personas.md#editor) could switch between LR or in LRCC. To continue and to the next steps we have to transit to LR. On this moment we propose to :
 - verify if all photos are syncronized
 - remove the catalog WIP, that is, stop share in LRCC
-- remove album from LRCC
+- remove the album from LRCC
 - run for the last time the script **picConvertKeywords**
 - convert all ARCHIVED files to DNG with high compression
 - convert all others files to DNG without compression

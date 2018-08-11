@@ -28,7 +28,7 @@ same as author with red flag and 1 star
 
 ## export
 ### 0-add-copy-dng
-used to add a copy on dng format to the catalog, it name the copy with [rename-copy](#rename-copy)
+used to add a copy on dng format to the catalog, it names the copy with [rename-copy](#rename-copy)
 
 ### 0-add-copy-tiff
 used to add a copy on tiff format to the catalog
@@ -52,7 +52,7 @@ generate full version for screens
 
 ## import
 
-### readd
+### read
 used to only add a photo to a catalog without changes
 
 ### add-input
@@ -67,13 +67,13 @@ generally used on imports directcly from cards. It will copy each photo into an 
 ## rename
 
 ### rename-custom
-used to rename completly without a predefined rule.
+used to rename completely without a predefined rule.
 
 ### rename-copy
 used to make copies of a photo adding to it a custom extension and adding it to the catalog. Example : coping a photo 'RBUAS20180101-0001.dng' we will have a dialog to set the custom text, and if we set it as 'superedition' the copy will take the name 'RBUAS20180101-0001-superedition.dng'
 
 ### rename-version
-used to make version from a photo. Example, if we generate web and full version from the photo 'RBUAS20180101-0001.dng' we could set the custom text to 'full' and the second time to 'web'. So we would get RBUAS20180101-0001.full.jpg and RBUAS20180101-0001.web.jpg
+used to make a version from a photo. Example: if we generate web and full version from the photo 'RBUAS20180101-0001.dng' we could set the custom text to 'full' and the second time to 'web'. So we would get RBUAS20180101-0001.full.jpg and RBUAS20180101-0001.web.jpg
 
 ### rename-id-date-seq
 used to give the standar name to each photo as : 
