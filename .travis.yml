@@ -21,22 +21,17 @@ jobs:
   include:
     - name: lint
       stage: quality
-      script: lint
+      script: npm run lint
 
     - name: compile
       stage: compile
-      script: build
+      script: npm run build
 
     - name: unit tests
       stage: test
-      script: unit-test
+      script: npm run unit-test
 
     - name: integration tests
       stage: test
-      script: int-test
+      script: npm run int-test
 
-    - name: deploy
-      stage: deploy
-      env:
-        - FOO=foo
-      script: deploy
