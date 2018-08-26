@@ -32,4 +32,4 @@ jobs:
       stage: test
       script:
         - npm run test
-        - sonar-scanner
+        - bash sonar.sh
