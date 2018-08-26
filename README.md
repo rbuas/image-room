@@ -6,6 +6,7 @@
 
 [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=image-room)](https://sonarcloud.io/dashboard/index/image-room)
 [![Coverage](https://sonarcloud.io/api/badges/measure?key=image-room&metric=coverage)](https://sonarcloud.io/component_measures?id=image-room&metric=coverage)
+[![Lines](https://sonarcloud.io/api/badges/measure?key=image-room&metric=ncloc)](https://sonarcloud.io/component_measures?id=image-room&metric=ncloc)
 [![Open issues](https://sonarcloud.io/api/badges/measure?key=image-room&metric=open_issues)](https://sonarcloud.io/component_measures?id=image-room&metric=open_issues)
 [![Code smells](https://sonarcloud.io/api/badges/measure?key=image-room&metric=code_smells)](https://sonarcloud.io/component_measures?id=image-room&metric=code_smells)
 [![Technical debt](https://sonarcloud.io/api/badges/measure?key=image-room&metric=sqale_index)](https://sonarcloud.io/component_measures?id=image-room&metric=sqale_index)
