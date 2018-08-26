@@ -25,9 +25,4 @@ jobs:
 
     - name: unit tests
       stage: test
-      script: npm run unit-test
-
-    - name: integration tests
-      stage: test
-      script: npm run int-test
-
+      script: npm run test
