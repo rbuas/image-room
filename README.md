@@ -1,16 +1,7 @@
 # ImageRoom
 
-[![release](https://img.shields.io/github/release/rbuas/image-room.svg)](https://GitHub.com/rbuas/image-room/releases/)
 [![tag](https://img.shields.io/github/tag/rbuas/image-room.svg)](https://GitHub.com/rbuas/image-room/tags/)
-[![commits](https://img.shields.io/github/commits-since/rbuas/image-room/v0.0.0.svg)](https://GitHub.com/rbuas/image-room/commit/)
-
-[[https://sonarcloud.io/api/badges/gate?key=image-room][file:https://sonarcloud.io/dashboard/index/image-room]]
-[[https://sonarcloud.io/api/badges/measure?key=image-room&metric=coverage][file:https://sonarcloud.io/component_measures?id=image-room&metric=coverage]]
-[[https://sonarcloud.io/api/badges/measure?key=image-room&metric=ncloc][file:https://sonarcloud.io/component_measures?id=image-room&metric=ncloc]]
-[[https://sonarcloud.io/api/badges/measure?key=image-room&metric=open_issues][file:https://sonarcloud.io/component_measures?id=image-room&metric=open_issues]]
-[[https://sonarcloud.io/api/badges/measure?key=image-room&metric=code_smells][file:https://sonarcloud.io/component_measures?id=image-room&metric=code_smells]]
-[[https://sonarcloud.io/api/badges/measure?key=image-room&metric=sqale_index][file:https://sonarcloud.io/component_measures?id=image-room&metric=sqale_index]]
-[[https://sonarcloud.io/api/badges/measure?key=image-room&metric=bugs][file:https://sonarcloud.io/component_measures?id=image-room&metric=bugs]]
+[![build](https://travis-ci.org/rbuas/image-room.svg?branch=master)](https://travis-ci.org/rbuas/image-room)
 
 A workflow and a library for photographs to manage the creation process.
 
