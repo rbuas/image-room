@@ -1,6 +1,6 @@
 {
   "name": "image-room",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A workflow and a library for photographs to manage the creation process.",
   "author": "Rodrigo Buas <rodrigobuas@gmail.com>",
   "contributors": [
