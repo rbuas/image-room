@@ -1,15 +1,15 @@
 /* eslint-disable no-console */
 
-const { readPicInfo } = require('..');
+const { generatePicInfo } = require('..');
 const { startCommand, endCommand } = require('./helpers');
 
-async function picReadInfo(filename = '') {
-  const commandName = `picReadInfo:${filename}`;
+async function generateInfo(filename = '') {
+  const commandName = `generateInfo:${filename}`;
 
   try {
     startCommand(commandName);
 
-    const info = await readPicInfo(filename);
+    const info = await generatePicInfo(filename);
     console.log(info);
   } catch (error) {
     console.log('ERROR : ', error);
@@ -18,4 +18,4 @@ async function picReadInfo(filename = '') {
   endCommand(commandName);
 }
 
-picReadInfo(process.argv[2]);
+generateInfo(process.argv[2]);
