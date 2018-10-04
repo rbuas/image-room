@@ -3,7 +3,7 @@
 ## v0.0.4
 - add cli using commander/chalk/shelljs
 - start roadmap
-- syncronize picture tags with caption field
+- syncronize picture keywords with caption(description) field
 
 ## v0.0.3
 - setup sonarqube
