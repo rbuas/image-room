@@ -9,7 +9,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
-    "ircli": "cli/cli.js",
+    "ir-cli": "cli/cli.js",
     "ir": "lib/index.js"
   },
   "scripts": {
@@ -51,6 +51,7 @@
     "lodash.pick": "^4.4.0",
     "lodash.uniq": "^4.5.0",
     "node-exiftool": "^2.3.0",
+    "sharp": "^0.21.0",
     "shelljs": "^0.8.2"
   }
 }
