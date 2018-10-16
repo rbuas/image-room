@@ -14,7 +14,7 @@
   },
   "scripts": {
     "lint": "eslint lib/ --config .eslintrc.json",
-    "prettier": "prettier --write '{lib}/**/*.js'",
+    "prettier": "prettier --write 'lib/**/*.js'",
     "todo": "leasot 'lib/**/*.js' || true",
     "quality": "yarn lint && yarn todo && yarn outdated",
     "sonar": "sonar-scanner",
