@@ -2,7 +2,6 @@ language: node_js
 
 node_js:
 - "8"
-- "9"
 
 addons:
   sonarcloud:
@@ -21,6 +20,17 @@ notifications:
     - rodrigobuas@gmail.com
     on_success: change
     on_failure: always
+
+before_install:
+  - set -ex
+  - wget https://imagemagick.org/download/ImageMagick.tar.gz
+  - tar -xzvf ImageMagick.tar.gz
+  - cd ImageMagick
+  - ./configure --prefix=/usr
+  - make
+  - sudo make install
+  - /usr/bin/magick -version
+
 
 jobs:
   include:
