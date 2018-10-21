@@ -9,7 +9,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
-    "ir-cli": "cli/cli.js",
+    "ir-cli": "lib/cli/cli.js",
     "ir": "lib/index.js"
   },
   "scripts": {
