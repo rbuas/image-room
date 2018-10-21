@@ -18,6 +18,7 @@ commander
   .option('-p, --pack [settings]', 'Process package with image room settings', '.irsettings')
   .option('-r, --readinfo [filename]', 'Read image info from filename')
   .option('-g, --geninfo [filename]', 'Generate image info file to filename')
+  .option('-s, --syncinfo [filename]', 'Syncronize picture keywords with caption field')
   .action((cmd, settings) => {
     cmd.settings = settings || '.irsettings';
     cmd.description = description;
