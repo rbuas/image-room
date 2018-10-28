@@ -9,8 +9,8 @@
   "license": "MIT",
   "main": "lib/index.js",
   "bin": {
-    "ir-cli": "lib/cli/cli.js",
-    "ir": "lib/index.js"
+    "ir": "lib/cli/cli.js",
+    "irlib": "lib/index.js"
   },
   "scripts": {
     "lint": "eslint lib/ --config .eslintrc.json",
@@ -22,7 +22,7 @@
     "test:watch": "jest --config=jest.config.js --runInBand --coverage --watchAll",
     "readInfo": "node ./cli/cli.js --readinfo",
     "generateInfo": "node ./cli/cli.js --geninfo",
-    "cli": "node ./cli/cli.js"
+    "ir": "node ./lib/cli/cli.js"
   },
   "devDependencies": {
     "eslint": "^5.1.0",
@@ -46,10 +46,12 @@
     "jsonfile": "^4.0.0",
     "lodash.foreach": "^4.5.0",
     "lodash.get": "^4.4.2",
+    "lodash.isstring": "^4.0.1",
     "lodash.keyby": "^4.6.0",
     "lodash.mapvalues": "^4.6.0",
     "lodash.merge": "^4.6.1",
     "lodash.pick": "^4.4.0",
+    "lodash.transform": "^4.6.0",
     "lodash.uniq": "^4.5.0",
     "node-exiftool": "^2.3.0",
     "sharp": "^0.21.0",
