@@ -25,7 +25,7 @@
     "max-len": [2, 100, 2],
     "no-await-in-loop": 0,
     "no-plusplus": [0, { "allowForLoopAfterthoughts": true }],
-    "no-continue": 1,
+    "no-continue": 0,
     "no-param-reassign": 1,
     "no-restricted-syntax": [
       "error",
