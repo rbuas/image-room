@@ -11,4 +11,5 @@ module.exports = {
   ],
   // we need it to be able to run tests using node instead of use jsdom adapter
   testEnvironment: 'node',
+  setupTestFrameworkScriptFile: './jest.setup.js',
 };
